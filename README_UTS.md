@@ -91,13 +91,25 @@ Navigasi:
 
 ## Screenshot Bukti
 
-Folder bukti/:
-- screenshot_phone.png (Kriteria A)
-- screenshot_tablet.png (Kriteria B)
-- screenshot_toggle.png (Kriteria E)
-- screenshot_form.png (Kriteria C)
-- screenshot_error.png (Kriteria F)
-- screenshot_analyze.png (Kriteria H)
+lek amu pengen nampilne gambare sisan ndek github gae iki:
+## Screenshot Bukti
+
+### Kriteria A - Phone
+![Phone](Bukti%20Screenshot/screenshot_phone.png)
+![Phone 2 tugas](Bukti%20Screenshot/screenshot_phone%202%20tugas.png)
+
+### Kriteria B - Tablet
+![Tablet](Bukti%20Screenshot/screenshot_tablet.png)
+![Tablet 2 tugas](Bukti%20Screenshot/screenshot_tablet%202%20tugas.png)
+
+### Kriteria C - Form
+![Form](Bukti%20Screenshot/screenshot_form.png)
+
+### Kriteria E - Toggle
+![Toggle](Bukti%20Screenshot/screenshot_toggle.png)
+
+### Kriteria F - Error
+![Error](Bukti%20Screenshot/screenshot_error.png)
 
 ---
 
